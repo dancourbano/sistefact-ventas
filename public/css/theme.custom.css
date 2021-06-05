@@ -1,0 +1,12 @@
+.dataTables_wrapper .dataTables_filter input {
+  width: 40%;
+}
+.center-div{
+    margin: 0 40%;
+}
+.reset{
+    color: #000099;
+}
+.nav-active{
+    color:#ddd;
+}
